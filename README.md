@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Software Engineer | React.js & Node.js Specialist</b><br>
-  <i>Building high-performance web applications, computer vision systems & scalable distributed backends</i>
+  <i>Building high-performance web applications, computer vision terminals & scalable distributed systems</i>
 </p>
 
 <p align="center">
@@ -13,24 +13,24 @@
 </p>
 
 <p align="center">
-  <b>🎯 Target Roles:</b> 
-  <code>Full-Stack Developer</code> • 
-  <code>React.js Frontend Engineer</code> • 
-  <code>Node.js / Python Backend Engineer</code> • 
+  <b>🎯 Actively Interviewing For:</b> 
+  <code>Full-Stack Developer (React & Node.js)</code> • 
+  <code>Frontend Engineer (React.js)</code> • 
+  <code>Backend Engineer (Node.js & Python)</code> • 
   <code>Software Development Engineer (SDE)</code>
 </p>
 
 ---
 
-### 💼 Why Hire Me for React & Node.js / Full-Stack Roles?
-- ⚛️ **Modern Frontend & React Excellence:** Strong mastery of React component lifecycle, state management, responsive UI/UX architecture, DOM optimization, and 60fps high-frame-rate web applications.
-- 🟢 **Scalable Node.js & RESTful APIs:** Designing robust server architectures with Node.js, Express, middleware authentication, database schemas, and microservice integration.
-- 👁️ **Computer Vision & Machine Learning:** Applied OpenCV and vector KNN algorithms to real-world biometric recognition and fraud-prevention systems.
-- ⚡ **Engineering Rigor:** Clean modular codebases, unit testing, automated verification pipelines, and comprehensive documentation.
+### 💼 Why Hire Me for Full-Stack, React & Node.js Roles?
+- ⚛️ **Modern React Architecture:** Expertise in custom React hooks (`useKanban`), component composition, optimistic UI updates, DOM virtualization, and 60fps high-performance web applications.
+- 🟢 **Enterprise Node.js & REST APIs:** Engineering production-ready Express backends with CRUD controllers, middleware authentication, rate limiting, and native unit testing (`node:test`).
+- 👁️ **Computer Vision & Applied AI:** Deep experience with OpenCV Haar Cascades, 2,500-dimensional vector biometric recognition, and fraud-prevention audit ledgers.
+- ⚡ **Concurrency & Distributed Systems:** Hands-on implementation of asynchronous worker queues, priority heap scheduling, exponential backoff retries, and dead-letter queues.
 
 ---
 
-### 🛠️ Technical Stack & Frameworks
+### 🛠️ Technical Arsenal
 
 <table>
   <tr>
@@ -40,6 +40,7 @@
       <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3%20%2F%20Bootstrap-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Web%20Audio%20API-4A154B?style=for-the-badge" />
     </td>
   </tr>
@@ -63,49 +64,52 @@
     </td>
   </tr>
   <tr>
-    <td width="22%"><b>Databases & DevOps</b></td>
+    <td width="22%"><b>Databases & Testing</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node%20Test%20Runner-0A9EDC?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Unit%20Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🔥 High-Priority Flagship Engineering Projects
+### 🔥 Featured Flagship Projects
 
-#### 1. 🗳️ [SmartElec — Real-Time Biometric Election Voting System](https://github.com/Shreyas6504/SmartElec-Biometric-Voting-System)
+#### 1. 📋 [DevFlow — Full-Stack Agile Management & Sprint Analytics Suite](https://github.com/Shreyas6504/DevFlow-Agile-Kanban-Suite)
+> **Full-Stack Agile Task Platform with React Component Architecture, Node.js & Express REST API, and Chart.js Telemetry**
+- **Frontend (React.js):** Custom `useKanban` hook managing optimistic state updates, HTML5 60fps drag-and-drop card transitions, debounced instant search, and Chart.js sprint velocity graphs.
+- **Backend (Node.js & Express):** Modular REST API with full CRUD endpoints, workflow state transition handling (`Backlog` ➔ `In Progress` ➔ `Review` ➔ `Done`), and automated test suite (`node --test`).
+- 🔗 **[Explore DevFlow Repository →](https://github.com/Shreyas6504/DevFlow-Agile-Kanban-Suite)**
+
+---
+
+#### 2. 🗳️ [SmartElec — Real-Time Biometric Election Voting System](https://github.com/Shreyas6504/SmartElec-Biometric-Voting-System)
 > **Automated Facial Recognition Terminal with Dual-Engine KNN, Fraud Prevention & SHA-256 Audit Chain**
-- **Tech Stack:** Python, OpenCV (Haar Cascades), K-Nearest Neighbors (NumPy & Scikit-Learn), Cryptography (SHA-256).
-- **Core Engineering:** Authenticates voter biometrics in `< 120ms` latency via 2,500-dimensional normalized facial vectors with distance-threshold unknown rejection.
-- **Zero-Trust Security:** Strict duplicate-vote prevention enforcing one-person-one-vote rules, coupled with a tamper-evident SHA-256 chained audit ledger.
-- **Interactive Terminal:** Real-time OpenCV HUD with automated Text-to-Speech (TTS) auditory cues and an administrative analytics dashboard.
+- **Computer Vision & ML:** OpenCV Haar Cascades face detector with 2,500-dimensional biometric feature extraction, authenticating registered voters in `< 120ms` latency.
+- **Election Integrity:** Strict one-person-one-vote duplicate fraud blocker and tamper-evident SHA-256 chained audit ledger.
 - 🔗 **[Explore SmartElec Repository →](https://github.com/Shreyas6504/SmartElec-Biometric-Voting-System)**
 
 ---
 
-#### 2. 📊 [Sorting-Visualizer — Interactive 60fps Algorithm Visualizer](https://github.com/Shreyas6504/Sorting-Visualizer)
+#### 3. 📊 [Sorting-Visualizer — Interactive 60fps Algorithm Visualizer](https://github.com/Shreyas6504/Sorting-Visualizer)
 > **High-Performance Algorithm Visualizer with Real-Time Harmonic Web Audio API Synthesizer & Node.js Engine**
-- **Tech Stack:** JavaScript (ES6+), Node.js, Express.js, Web Audio API, HTML5/CSS3.
-- **Core Engineering:** 60fps real-time visual animation engine for 6 core sorting algorithms (Bubble, Selection, Insertion, Merge, Quick, Heap sort) with Lomuto partitioning and early-exit optimizations.
-- **Acoustic Synthesis:** Web Audio API sound generator producing harmonic audio frequencies mapped mathematically to bar magnitudes, with custom comparative chords and completion arpeggios.
-- **Interactive Controls:** Dynamic array scaling (10-100 elements), custom speed throttle, 4 distribution presets, and pause/resume execution state machine.
+- **Architecture:** 60fps visual animation engine for 6 comparison sorting algorithms (Bubble, Selection, Insertion, Merge, Quick, Heap sort) with Web Audio API sound generator producing real-time frequency synthesis mapped to bar heights. Powered by a Node.js/Express static server.
 - 🔗 **[Explore Sorting-Visualizer Repository →](https://github.com/Shreyas6504/Sorting-Visualizer)**
 
 ---
 
-#### 3. 🏛️ [JanDrishti — Civic Grievance & Community Incident Platform](https://github.com/Shreyas6504/Community_Issue_Tracker_Jandrishti_)
+#### 4. 🏛️ [JanDrishti — Civic Grievance & Community Incident Platform](https://github.com/Shreyas6504/Community_Issue_Tracker_Jandrishti_)
 > **Full-Stack Civic Tech Platform with Geospatial Leaflet Mapping, Democratic Upvoting & Municipal Lifecycle Engine**
 - **Tech Stack:** Python, Flask 3.0, SQLite, Leaflet.js, OpenStreetMap, REST APIs.
-- **Core Engineering:** Live GPS geotagging, crowdsourced upvoting, and an administrative Municipal Officer dashboard with ticket lifecycle tracking (`Reported` ➔ `In Progress` ➔ `Resolved`).
+- **Core Engineering:** Live GPS incident logging, crowdsourced upvoting, and an administrative Municipal Officer dashboard with ticket lifecycle tracking (`Reported` ➔ `In Progress` ➔ `Resolved`).
 - 🔗 **[Explore JanDrishti Repository →](https://github.com/Shreyas6504/Community_Issue_Tracker_Jandrishti_)**
 
 ---
 
-#### 4. ⚡ [TaskPulse — Asynchronous Worker Queue & Workflow Engine](https://github.com/Shreyas6504/TaskPulse-Workflow-Engine)
+#### 5. ⚡ [TaskPulse — Asynchronous Worker Queue & Workflow Engine](https://github.com/Shreyas6504/TaskPulse-Workflow-Engine)
 > **Concurrent Background Job Scheduler with Min-Heap Priority Queues, Exponential Backoff & Dead-Letter Queue (DLQ)**
 - **Tech Stack:** Python, Multithreading, Min-Heap, Exponential Backoff Jitter ($$T = 2^{\text{retry}} \times 0.4s + \text{jitter}$$), Flask Observability UI.
 - 🔗 **[Explore TaskPulse Repository →](https://github.com/Shreyas6504/TaskPulse-Workflow-Engine)**
